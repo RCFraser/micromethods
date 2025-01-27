@@ -1,3 +1,5 @@
+import Pkg; Pkg.add("Plots")
+
 using Plots 
 
 # Function to create animation of fixed point iteration

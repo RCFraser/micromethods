@@ -1,3 +1,8 @@
+import Pkg; Pkg.add("Plots")
+import Pkg; Pkg.add("Printf")
+import Pkg; Pkg.add("LinearAlgebra")
+import Pkg; Pkg.add("NonlinearSolve")
+
 using Plots
 using Printf
 using LinearAlgebra
